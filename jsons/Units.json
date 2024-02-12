@@ -1,5 +1,25 @@
 [
 	{
+		"name": "Cañón Criollo",
+		"unitType": "Siege",
+		"uniqueTo": "Aliens",
+		"movement": 1,
+		"strength": 17,
+		"rangedStrength": 10,
+		"cost": 235,
+		"requiredTech": "Agriculture",
+		"upgradesTo": "Artillery",
+		"obsoleteTech": "Dynamite",
+		"uniques": ["Blast radius [1]","[+200]% Strength <vs cities> <when attacking>","Must set up to ranged attack","[-1] Sight","Never appears as a Barbarian unit"],
+		"promotions": ["Morale"],
+		"civilopediaText": [
+			{
+				"text": "Artillería superpesada paraguaya, fabricada con campanas de iglesias fundidas."
+			}
+		],
+		"attackSound": "cannon"
+	},
+	{
 		"name": "Phasers",
 		"unitType": "Ranged",
 		"uniqueTo": "Aliens",

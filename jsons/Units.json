@@ -6,7 +6,7 @@
 		"movement": 1,
 		"strength": 17,
 		"rangedStrength": 10,
-		"cost": 235,
+		"cost": 40,
 		"requiredTech": "Agriculture",
 		"upgradesTo": "Artillery",
 		"obsoleteTech": "Dynamite",

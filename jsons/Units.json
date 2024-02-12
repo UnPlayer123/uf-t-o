@@ -25,7 +25,7 @@
 		"movement": 2,
 		"strength": 40,
 		"rangedStrength": 40,
-		"cost": 280,
+		"cost": 40,
 		"requiredTech": "Sailing",
 		"upgradesTo": "Battleship",
 		"obsoleteTech": "Electronics",

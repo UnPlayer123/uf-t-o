@@ -20,6 +20,25 @@
 		"attackSound": "cannon"
 	},
 	{
+		"name": "Vapor de Guerra",
+		"unitType": "Ranged Water",
+		"movement": 2,
+		"strength": 40,
+		"rangedStrength": 40,
+		"cost": 280,
+		"requiredTech": "Sailing",
+		"upgradesTo": "Battleship",
+		"obsoleteTech": "Electronics",
+		"uniques": ["Double movement in [Coast]","Can carry [3] [Land] units","May capture killed [Water] units","Never appears as a Barbarian unit"],
+		"promotions": ["Morale","Supply"],
+				"civilopediaText": [
+			{
+				"text": "Buque a vapor armado con artillería, capaz de transportar unidades de tierra."
+			}
+		],
+		"attackSound": "shipguns"
+	},
+	{
 		"name": "Phasers",
 		"unitType": "Ranged",
 		"uniqueTo": "Aliens",
